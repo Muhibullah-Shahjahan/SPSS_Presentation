@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{SECTION--I Summary Statistics for Individual Variable}{2}{0}{1}
+\beamer@sectionintoc {2}{SECTION-II Creating and Editing Charts}{23}{0}{2}

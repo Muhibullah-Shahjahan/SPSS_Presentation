@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{SECTION--I Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{SECTION--II Reading Data}{15}{0}{2}
+\beamer@sectionintoc {3}{SECTION--III Create or Edit Dataset Using the Data Editor}{24}{0}{3}
